@@ -1,0 +1,36 @@
+#bg1 {
+    position:absolute;
+    height: 979px;
+    width: 629px;
+    margin-left:-285px;
+    z-index: 1;
+}
+#bg2 {
+    height:489.5px;
+    width:1375px;
+    position:absolute;
+    margin-left:510px;
+
+}
+#bg3{
+    height:489.5px;
+    width:1375px;
+    position:absolute;
+    margin-left:510px;
+    margin-top:489.5px;
+}
+
+#bgMain1{
+    height: 440px;
+    width: 1000px;
+    position:absolute;
+    margin-top:50px;
+    margin-left:400px;
+}
+#bgMain2{
+    height: 440px;
+    width: 1000px;
+    position:absolute;
+    margin-top:490px;
+    margin-left:400px;
+}
