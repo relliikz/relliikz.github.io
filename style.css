@@ -41,10 +41,10 @@ html, body{
 
 #bgMain{
     position: absolute;
-    margin-left:10%;
+    margin-left:15%;
     margin-top:2%;
     height: 95%;
-    width: 60%;
+    width: 50%;
     z-index:1;
     padding:0;
     box-shadow: 70px 4px 50px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -61,4 +61,25 @@ html, body{
     height: 50%;
     width: 100%;
     background-color: #25262a
+}
+
+#nameTitle{
+    margin-right: 100px;
+}
+
+#navInner{
+    display:flex;
+    justify-content: flex-start;
+    font-size: 13px;
+}
+
+#navInner a {
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+}
+
+#navInner a:hover {
+    color: rgb(32, 224, 160);
+    background-color: #2d2e32;
 }
