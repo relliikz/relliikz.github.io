@@ -67,10 +67,17 @@ html, body{
     margin-right: 100px;
 }
 
-#navInner{
+#headerInner{
     display:flex;
     justify-content: flex-start;
     font-size: 13px;
+}
+
+#navInner{
+    display:flex;
+    justify-content: right;
+    margin-top: -132px;
+    font-size: 13px; 
 }
 
 #navInner a {
